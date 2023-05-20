@@ -1,0 +1,9 @@
+* dexador
+
+A fast HTTP client for Common Lisp
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/fukamachi/dexador.git |
+| commit  | d792dbd                                      |
+| systems | dexador                                      |
+|---------+----------------------------------------------|
