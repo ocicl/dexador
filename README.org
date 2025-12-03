@@ -4,6 +4,6 @@ A fast HTTP client for Common Lisp
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/fukamachi/dexador.git |
-| commit  | 4db4b93                                      |
+| commit  | d4d3520                                      |
 | systems | dexador                                      |
 |---------+----------------------------------------------|
